@@ -1,4 +1,4 @@
-# findmyplane
+# Find My Plane
 The legendary app, now in your cli
 
 `fmp` takes a flight number and a date and shows the flight's status, times, gates, and aircraft. If the flight is in the air, it also shows where the plane is right now.
