@@ -5,7 +5,7 @@ The legendary app, now in your cli
 
 `fmp` takes a flight number and a date and shows ...  
 
-<img src="res/Flight%20CX%20828.png" alt="fmp CX828 output" width="780">
+<img src="res/Flight%20CX%20828.png" alt="fmp CX828 output" width="500">
 
 ## A bit of history
 
