@@ -3,18 +3,10 @@ The legendary app, now in your cli
 
 `fmp` takes a flight number and a date and shows the flight's status, times, gates, and aircraft. If the flight is in the air, it also shows where the plane is right now.
 
-```
-$ fmp AA705
-AA 705 · American Airlines  [Departed]
-  From  FRA  Frankfurt-am-Main
-        09:20 → 09:27  +7 min
-        Terminal 3 · Gate J4
-  To    CLT  Charlotte Douglas
-        13:00 → 12:42  -18 min
-  Now   FRA ━━━━━━━━━━━━━━━━━━━━━✈── CLT  91%
-        38,000 ft · 492 kt · hdg 230° · 39.58°N 76.21°W · via adsb.lol
-  ✈ Boeing 777-200 · Reg N777AN · Callsign AAL705 · 7,075 km
-```
+`fmp` takes a flight number and a date and shows ...
+
+![fmp CX828 output](res/Flight%20CX%20828.png)
+
 
 ## A bit of history
 
