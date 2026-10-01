@@ -16,6 +16,12 @@ AA 705 · American Airlines  [Departed]
   ✈ Boeing 777-200 · Reg N777AN · Callsign AAL705 · 7,075 km
 ```
 
+## A bit of history
+
+`fmp` is the latest version of an old idea. In 2012 I built [Find my Plane](https://sgomez.blogspot.com/2012/06/find-my-plane.html), a smartphone app (Android and iOS) for GeneXus's internal "GX Challenge (Developer Edition)" contest. You entered a flight number and it showed the route, terminal and gate, and whether the flight was on time, delayed, or diverted. It also showed the weather at both airports and let you listen to their air traffic controllers.
+
+To promote it, I then built the [@FindMyPlane Twitter bot](https://sgomez.blogspot.com/2012/06/findmyplane-bot.html). You tweeted a flight number at @FindMyPlane and it replied with the same kind of info, squeezed into 140 characters. It ran on Windows Azure worker roles.
+
 ## Usage
 
 ```
