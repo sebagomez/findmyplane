@@ -3,10 +3,9 @@ The legendary app, now in your cli
 
 `fmp` takes a flight number and a date and shows the flight's status, times, gates, and aircraft. If the flight is in the air, it also shows where the plane is right now.
 
-`fmp` takes a flight number and a date and shows ...
+`fmp` takes a flight number and a date and shows ...  
 
-![fmp CX828 output](res/Flight%20CX%20828.png)
-
+<img src="res/Flight%20CX%20828.png" alt="fmp CX828 output" width="780">
 
 ## A bit of history
 
